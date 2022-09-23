@@ -9,7 +9,7 @@ export default function Estadisticas() {
         if (Personas[i].edad > 35) {
             mayoresEdad++;
         }
-
+        
         if (personaMasGrande[0].edad < Personas[i].edad) {
             personaMasGrande = [Personas[i]]
         }

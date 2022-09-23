@@ -1,4 +1,3 @@
-import { getActiveElement } from '@testing-library/user-event/dist/utils';
 import React from 'react'
 import { useParams } from 'react-router-dom';
 import Personas from '../Personas';

@@ -1,5 +1,5 @@
 import Personas from '../Personas';
-import {useState} from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 
