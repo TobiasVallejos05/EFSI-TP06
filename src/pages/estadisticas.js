@@ -41,9 +41,9 @@ export default function Estadisticas() {
     if (personaMasChica.length > 1) {
         textoChico = "Las personas más chicas son: ";
         personaMasChica.forEach(Persona => {
-            textoChico += Persona.nombre + " ,"
+            textoChico += Persona.nombre + ", "
         });
-        textoChico = textoChico.slice(-2);
+        textoChico = textoChico.slice(0, -2);
     }
 
     return (

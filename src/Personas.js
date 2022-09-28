@@ -221,7 +221,7 @@ const Personas = [
     "nombre":"Deina",
     "apellido":"Ridges",
     "email":"dridgesv@prweb.com",
-    "edad":"21"
+    "edad":"20"
   },
   {
     "id":"33",
@@ -389,7 +389,7 @@ const Personas = [
     "nombre":"Moll",
     "apellido":"Riddlesden",
     "email":"mriddlesden1j@shinystat.com",
-    "edad":"19"
+    "edad":"21"
   },
   {
     "id":"57",
